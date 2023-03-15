@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 561
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -322,23 +322,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Sprites
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\mago1c6\Snow Boarder (1)
+  m_LastProjectPath: C:\Users\mago1c6\Documents\GitHub\snowboarder-Mark-Gorman-Student
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a640000
-    m_LastClickedID: 25642
-    m_ExpandedIDs: 000000002a6400002c6400002e640000306400003264000000ca9a3b
+    m_SelectedIDs: 4c640000
+    m_LastClickedID: 25676
+    m_ExpandedIDs: 00000000306400003264000034640000366400003864000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002a6400002c6400002e6400003064000032640000
+    m_ExpandedIDs: 000000003064000032640000346400003664000038640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +393,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300009a690000446a0000000000005c630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -504,9 +504,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: fcfaffffdc630000
+      m_SelectedIDs: ce630000
+      m_LastClickedID: 25550
+      m_ExpandedIDs: 2eccffff4cccffff66ccffffa0ccffffd8cdffff1af0ffffeafaffffe06300009e6d0000ce6d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -911,9 +911,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.099492, y: 10.515505, z: 0.033912286}
+    m_Target: {x: 11.324117, y: 14.208062, z: -4.5684786}
     speed: 2
-    m_Value: {x: -8.099492, y: 10.515505, z: 0.033912286}
+    m_Value: {x: 11.324117, y: 14.208062, z: -4.5684786}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -963,9 +963,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.594568
+    m_Target: 16.61577
     speed: 2
-    m_Value: 6.594568
+    m_Value: 16.61577
   m_Ortho:
     m_Target: 1
     speed: 2
